@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AmerikaBorealis
-- 👀 I’m interested in the dialectics
+- 👀 I’m interested in dialectics
 - 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on projects that center the global south
