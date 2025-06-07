@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @AmerikaBorealis
-- 👀 I’m interested in dialectics
-- 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on projects that center the global south
-
+- Hi, I’m @AmerikaBorealis
+- I’m interested in dialectics
+- I’m currently learning R
+- I’m looking to collaborate on projects that center the global south
 - Professional Urban Planner
 - FreeCAD, LibreCAD, FocalBoard, CashGNU, QGIS, GRASS, and Janovi
