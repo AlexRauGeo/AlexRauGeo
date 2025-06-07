@@ -3,4 +3,4 @@
 - I’m currently learning R
 - I’m looking to collaborate on projects that center the global south
 - Professional Urban Planner
-- FreeCAD, LibreCAD, FocalBoard, CashGNU, QGIS, GRASS, and Janovi
+- FreeCAD, LibreCAD, Blender, FocalBoard, CashGNU, QGIS, GRASS, and Janovi
