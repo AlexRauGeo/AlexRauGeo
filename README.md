@@ -1,6 +1,6 @@
-- Hi, I’m @AmerikaBorealis
+- Hi, I’m @AlexRauGeo
 - I’m interested in dialectics
 - I’m currently learning R
-- I’m looking to collaborate on projects that center the global south
+- I’m looking to collaborate on projects that center indigenous data methodologies
 - Professional Urban Planner
-- FreeCAD, LibreCAD, Blender, FocalBoard, CashGNU, QGIS, GRASS, and Janovi
+- Python, QGIS, GRASS, FOSS spaitial analysis
