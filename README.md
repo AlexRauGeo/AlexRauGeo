@@ -3,4 +3,5 @@
 - I’m currently learning R
 - I’m looking to collaborate on projects that center indigenous data methodologies
 - Professional Urban Planner
-- Python, QGIS, GRASS, FOSS spaitial analysis
+- Python, QGIS, GRASS
+- FOSS spaitial analysis
